@@ -1,0 +1,3 @@
+﻿  객체2 10.11 수업.cpp
+C:\Users\SAMSUNG\source\repos\객체2 10.11 수업\객체2 10.11 수업\객체2 10.11 수업.cpp(31,7): error C2512: 'TmpBase': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+C:\Users\SAMSUNG\source\repos\객체2 10.11 수업\객체2 10.11 수업\객체2 10.11 수업.cpp(6,7): message : 'TmpBase' 선언을 참조하십시오.
